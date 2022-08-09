@@ -5,8 +5,8 @@
 - data.js 声明了 data 的内容，在 demo.html 中引用
 
 ### 2. HTML部分
-- style里规定了容器的大小
-- `<script>`内使用了两个外界js
+- `<style></style>`里规定了容器的大小
+- `<script></script>`内使用了两个外界js
 
 ### 3.Javascript部分
  option内先给出总体框架，再使用
